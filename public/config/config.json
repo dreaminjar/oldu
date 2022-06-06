@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7bB7B5Af19792cf1Ad21a57561eEaF3d5CDfD3a7",
+  "SCAN_LINK": "https://https://https://https://polygonscan.com/address/0x7bb7b5af19792cf1ad21a57561eeaf3d5cdfd3a7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SunBirdsClubs",
+  "SYMBOL": "SNB",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://https://opensea.io/collection/sunbirdsclub-wf14m9ksij",
+  "SHOW_BACKGROUND": true
+}
